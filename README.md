@@ -19,8 +19,27 @@
 8. 練習Markdown語法（可選）
 
 # Markdown語法練習區⬇️⬇️⬇️
+# H1
+## H2
+### H3
+#### h4
 
+**粗體**
+*斜體*
 
+- ONE
+- TWO
+  - THREE
+  - FOUR
 
+1. ONE
+2. TWO
+    1. one
+    2. two 
+
+```python
+#這是Python程式碼
+print("Hello World!")
+```
 
 
